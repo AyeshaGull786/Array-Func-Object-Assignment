@@ -88,12 +88,12 @@ console.log(inventory);
   };
   //Student List
   const students : Student[] = [
-    {name :"Abeeha",seniorStatus :true,assignmentCompleted :true},
-    {name :"Rameen",seniorStatus :true,assignmentCompleted :true},
-    {name :"Iqra",seniorStatus :false,assignmentCompleted :true},
-    {name :"Zaeema",seniorStatus :false,assignmentCompleted :false},
-    {name :"Areeba",seniorStatus :true,assignmentCompleted :true},
-    {name :"Bismah",seniorStatus :false,assignmentCompleted :false},
+    {name :"Alisha",seniorStatus :false,assignmentCompleted :true},
+    {name :"Alina",seniorStatus :true,assignmentCompleted :false},
+    {name :"Ayesha",seniorStatus :false,assignmentCompleted :true},
+    {name :"Maria",seniorStatus :false,assignmentCompleted :false},
+    {name :"Misbah",seniorStatus :true,assignmentCompleted :true},
+    {name :"Anum",seniorStatus :false,assignmentCompleted :false},
   ]
   console.log("\n Student List:",students);
   
